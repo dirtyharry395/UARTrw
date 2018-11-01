@@ -1,0 +1,1 @@
+UARTrw is a VHDL implementation of UART with read/write functionality and a read buffer
